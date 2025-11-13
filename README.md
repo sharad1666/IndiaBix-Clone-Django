@@ -106,7 +106,7 @@ It also provides an admin panel to easily manage the content.
 
 ## 🧑‍💻 Author
 
-**Sharad Yadav**  
+**Sharad Kumar Yadav**  
 - 🌍 GitHub: [@sharad1666](https://github.com/sharad1666)  
 - 🚀 Live Project: [IndiaBix Clone on PythonAnywhere](https://sharad24052002.pythonanywhere.com/)
 
